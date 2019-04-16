@@ -1,3 +1,5 @@
+![img](https://github.com/Jeffreve/web_crawler/blob/master/crawler.gif)
+
 ## douban1.py
 通过 python 的 requests、pyquery库 实现页面 信息的清洗和处理
 将处理过的数据，通过类实例化，再打印出来
