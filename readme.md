@@ -6,8 +6,10 @@
 
 
 ## douban2.py
-在程序1的基础上，先将页面信息进行保存，再进行处理，以便下次使用
+在douban1的基础上，先将页面信息进行保存，再进行处理，以便下次使用
 
+## douban3.py
+在douban2的基础上，对清洗后的数据，通过数据库对数据进行操作
 
 ## browser.py
 python 使用 splinter 通过 api 来控制 chrome
